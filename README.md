@@ -40,3 +40,8 @@
         <th colspan="3">Eclipse IDE, Oracle DBMS / Visual Studio Code</th>
     </tr>
 </table>
+
+### 📋ERD
+![goguma_erd](https://user-images.githubusercontent.com/90780701/152697432-dcdd516b-a2cd-47dc-8a59-ba108e8cd22f.png)
+
+
