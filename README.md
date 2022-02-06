@@ -1,5 +1,7 @@
 ## 🍠 입찰 시스템을 추가한 중고거래 플랫폼 웹 사이트 프로젝트 입니다.
 
+![project01](https://user-images.githubusercontent.com/90780701/152696867-99d8ef24-7a1d-4a32-a118-3ca5e389a54d.png)
+
 ### 👋 Introduction
 <table>
     <tr>
