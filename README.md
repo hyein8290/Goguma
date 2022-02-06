@@ -1,4 +1,4 @@
-# Goguma
+## 🍠 입찰 시스템을 추가한 중고거래 플랫폼 웹 사이트 프로젝트 입니다.
 
 ### 👋 Introduction
 <table>
